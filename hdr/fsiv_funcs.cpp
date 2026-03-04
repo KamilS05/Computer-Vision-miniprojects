@@ -1,5 +1,3 @@
-// File: fsiv_funcs.cpp
-// (c) mjmarin
 
 #include "fsiv_funcs.hpp"
 #include <algorithm>

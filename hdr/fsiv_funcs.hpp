@@ -1,6 +1,4 @@
-// File: fsiv_funcs.hpp
-// (c) mjmarin
- 
+
 #ifndef FSIV_FUNCS_HPP
 #define FSIV_FUNCS_HPP
 

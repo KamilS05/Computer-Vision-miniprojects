@@ -6,7 +6,6 @@ using namespace std;
 using namespace cv;
 
 
-
 // Images
 Mat object_image;  // Original image with object
 Mat background_image;      // Background image

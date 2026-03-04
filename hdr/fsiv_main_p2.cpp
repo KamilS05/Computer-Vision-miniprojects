@@ -1,4 +1,3 @@
-// File: fsiv_main_p2.cpp
 
 #if defined(_WIN32) && !defined(NOMINMAX)
 #define NOMINMAX

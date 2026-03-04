@@ -1,7 +1,4 @@
-/**
- * @file fsiv_funcs.cpp
- * @brief Definitions for Smart Background Filtering helpers (motion + edges).
- */
+
 
 #include "fsiv_funcs.hpp"
 #include <opencv2/opencv.hpp>
