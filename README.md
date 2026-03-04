@@ -12,9 +12,9 @@ The projects are implemented mainly in **C++ using OpenCV**.
 
 ```text
 .
-├── hdr/
-├── chroma_correction/
+├── chroma_correction/hdr/
 ├── edges_optical_flow/
+├── hdr/
 └── vision_3d/
 
 ```
